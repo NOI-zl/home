@@ -3,36 +3,30 @@
     "name": "Github",
     "icon": "/images/icon/github.png",
     "tip": "去 Github 看看",
-    "url": "https://github.com/jjghfd"
+    "url": "https://github.com/NOI-zl"
   },
   {
-    "name": "抖音",
+    "name": "B站",
     "icon": "/images/icon/bilibili.png",
-    "tip": "抖音，创造美好生活！",
-    "url": "https://www.douyin.com/user/MS4wLjABAAAArPFKHnxxsCGzmHWYHwUGvyYDsIK4Sn5FgSf_4Rb0MjTtG5oJD-ahq05PFT7g53gd?from_tab_name=main"
+    "tip": "B站喵",
+    "url": "https://space.bilibili.com/3546981410540200"
   },
   {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
     "tip": "当前无法使用此功能！",
-    "url": "https://res.abeim.cn/api/qq/?qq=2051224135"
+    "url": "tencent://ntqq-open?subCmd=profile&action=openMiniBuddyProfile&actionParams={"uin": "2051224135","sourceType": "QrCodeShareBuddyLink"}"
   },
   {
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "mailto:one@imsyy.top"
+    "url": "mailto://noi_zl@244668.xyz"
   },
   {
-    "name": "Twitter",
+    "name": "X",
     "icon": "/images/icon/twitter.png",
     "tip": "你懂的 ~",
-    "url": "https://twitter.com/iimmsyy"
-  },
-  {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "url": "https://x.com/NOI_zl"
   }
 ]
