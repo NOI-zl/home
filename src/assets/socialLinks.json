@@ -14,8 +14,8 @@
   {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
-    "tip": "当前无法使用此功能！",
-    "url": "tencent://ntqq-open?subCmd=profile&action=openMiniBuddyProfile&actionParams={"uin": "2051224135","sourceType": "QrCodeShareBuddyLink"}"
+    "tip": "来 QQ 找我玩",
+    "url": "tencent://ntqq-open?subCmd=profile&action=openMiniBuddyProfile&actionParams={\"uin\": \"2051224135\",\"sourceType\": \"QrCodeShareBuddyLink\"}"
   },
   {
     "name": "Email",
